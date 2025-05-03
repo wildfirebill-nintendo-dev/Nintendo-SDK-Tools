@@ -12,7 +12,10 @@ I am not affiliated with Nintendo in any way.
 
 We also have a [backup page on Rentry](https://rentry.co/Nintendo-SDK-Tools) - make sure to bookmark it! :)
 
-Note: While those tools are useful for modding video games, you may not mention what SDK tools you use to create mods, or share this repo on any video games modding communities (such as Discord) as they don't allow sharing copyrighted software. I am not responsible if you get banned from such communities for doing so :P
+> [!WARNING]
+> While these tools are useful for modding video games, you may not mention what SDK tools you use to create mods, or share this repo on any video games modding communities (such as Discord) as they don't allow sharing copyrighted software. I am not responsible if you get banned from such communities for doing so :P
+
+The SDK tools here were grabbed from the Rare Gaming Dump shared drive for easy access.
 
 ---
 
