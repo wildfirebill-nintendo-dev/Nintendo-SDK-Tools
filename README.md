@@ -2,6 +2,8 @@
 
 A simple collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
 
+Useful for modding some Nintendo video games when there are no open-source, legal versions of modding tools that can edit some games' assets.
+
 [Download (849 MiB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
 
 [Mirror](https://drive.google.com/file/d/1Xc5f_Rr-nq7j7pnFwrLi0HOt_LiqYy-A/view?usp=sharing)
@@ -9,6 +11,8 @@ A simple collection of development tools for Wii, 3DS, Wii U, and Nintendo Switc
 I am not affiliated with Nintendo in any way.
 
 We also have a [backup page on Rentry](https://rentry.co/Nintendo-SDK-Tools) - make sure to bookmark it! :)
+
+Note: While those tools are useful for modding video games, you may not mention what SDK tools you use to create mods, or share this repo on any video games modding communities (such as Discord) as they don't allow sharing copyrighted software. I am not responsible if you get banned from such communities for doing so :P
 
 ---
 
