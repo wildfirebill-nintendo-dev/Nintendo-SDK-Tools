@@ -2,7 +2,7 @@
 
 A simple collection of development tools for Wii, 3DS, Wii U, and Nintendo Switch.
 
-Useful for modding some Nintendo video games when there are no open-source, legal versions of modding tools that can edit some games' assets.
+Useful for modding some Nintendo video games when there are no open-source, legal versions of the modding tools that can edit some games' assets.
 
 [Download (849 MiB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
 
