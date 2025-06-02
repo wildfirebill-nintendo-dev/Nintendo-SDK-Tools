@@ -6,14 +6,14 @@ Useful for modding some Nintendo video games when there are no open-source, lega
 
 [Download (849 MiB)](https://github.com/AromaKitsune/Nintendo-SDK-Tools/releases/download/2021/Nintendo-SDK-Tools.zip)
 
-[Mirror](https://drive.google.com/file/d/1Xc5f_Rr-nq7j7pnFwrLi0HOt_LiqYy-A/view?usp=sharing)
+[Mirror](https://drive.google.com/file/d/1yOnv0IZi7L5QvAT0xwH0F20Gx6ebL_mx/view?usp=sharing)
 
 I am not affiliated with Nintendo in any way.
 
 We also have a [backup page on Rentry](https://rentry.co/Nintendo-SDK-Tools) - make sure to bookmark it! :)
 
 > [!WARNING]
-> While these tools are useful for modding video games, you may not mention what SDK tools you use to create mods, or share this repo on any video game modding communities (such as Discord) as they don't allow sharing copyrighted software. I am not responsible if you get banned from such communities for doing so :P
+> While these tools are useful for modding video games, you should not mention what SDK tools you use to create mods, or share this repo on any video game modding communities (such as Discord) as they don't allow sharing copyrighted software. I am not responsible if you get banned from those communities for doing so :P
 
 The SDK tools here were grabbed from the Rare Gaming Dump shared drive for easy access.
 
